@@ -1,0 +1,9 @@
+selenium
+pandas
+bs4
+webdriver_manager
+openpyxl
+xlrd
+xlwt
+
+csv
